@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+output_wav/
+arabic_pronunciation_letters.zip
+*.mp3
+*.log
